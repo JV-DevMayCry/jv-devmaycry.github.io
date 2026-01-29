@@ -1,0 +1,95 @@
+.container{
+    text-align: center;
+}
+
+.text{
+
+    text-align: center;
+    font-size: 28px;
+
+}
+
+.button{
+
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(0, 204, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    border-radius: 20px;
+    text-decoration: wavy;
+    font-weight: bold;
+}
+
+.title{
+
+    font-size: 45px;
+    text-align: center;
+
+}
+
+.header{
+
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+    padding-top: 10px;
+    border-bottom: 5px solid aqua;
+    border-top: 5px solid aqua;
+}
+
+.picture{
+    
+    display: block;
+    margin: 0 auto;
+    
+}
+img{
+    border: 5px solid aqua;
+    width: 250px;
+    display: block;
+    margin: 0 auto;
+}
+
+.list{
+
+text-align: center;
+font-size: 18px;
+
+
+}
+
+.subtitle{
+
+    text-align: center;
+    font-size: 23px;
+    font-weight: bold;
+
+}
+
+.body{
+
+    margin: 0;
+    background-color: lightgray;
+    border-inline: 5px solid aqua;
+
+}
+
+.footer{
+
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-weight: bold;
+    border-bottom: 5px solid aqua;
+    border-top: 5px solid aqua;
+}
+
+.block{
+
+    text-align: center;
+    font-size: 18px;
+
+}
